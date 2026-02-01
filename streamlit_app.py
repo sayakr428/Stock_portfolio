@@ -1,7 +1,3 @@
-"""
-Trading Data Assistant - Streamlit Application
-A simple chatbot that answers questions about uploaded trading data
-"""
 
 import streamlit as st
 import pandas as pd
